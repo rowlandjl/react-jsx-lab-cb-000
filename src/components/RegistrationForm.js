@@ -1,5 +1,5 @@
 import React from 'react'
 
-class RegistrationForm extends Component {
+export class RegistrationForm extends Component {
   
 }
