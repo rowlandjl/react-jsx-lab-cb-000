@@ -1,3 +1,5 @@
 import React from 'react'
 
-export FillerText extends Component 
+export FillerText extends Component {
+  
+}
