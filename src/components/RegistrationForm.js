@@ -1,0 +1,3 @@
+class RegistrationForm extends Component {
+  
+}
